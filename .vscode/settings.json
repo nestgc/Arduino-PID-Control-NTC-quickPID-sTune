@@ -1,0 +1,59 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "C:/Users/nesgc/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:/Users/nesgc/.platformio/packages/toolchain-atmelavr/bin/avr-g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:/Users/nesgc/.platformio/packages/toolchain-atmelavr/bin/avr-gdb.exe",
+  "C_Cpp_Runner.cStandard": "c11",
+  "C_Cpp_Runner.cppStandard": "c++11",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Wshadow",
+    "-Wformat=2",
+    "-Wconversion",
+    "-Wnull-dereference",
+    "-Wsign-conversion"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "d:/Mis Documentos/PlatformIO/Projects/Arduino PID Control NTC/include",
+    "d:/Mis Documentos/PlatformIO/Projects/Arduino PID Control NTC/src",
+    "d:/Mis Documentos/PlatformIO/Projects/Arduino PID Control NTC/.pio/libdeps/uno/EEPROMEx",
+    "d:/Mis Documentos/PlatformIO/Projects/Arduino PID Control NTC/.pio/libdeps/uno/ArduinoMenu library/src",
+    "d:/Mis Documentos/PlatformIO/Projects/Arduino PID Control NTC/.pio/libdeps/uno/PID-AutoTune",
+    "d:/Mis Documentos/PlatformIO/Projects/Arduino PID Control NTC/.pio/libdeps/uno/AutoPID",
+    "d:/Mis Documentos/PlatformIO/Projects/Arduino PID Control NTC/.pio/libdeps/uno/PID",
+    "d:/Mis Documentos/PlatformIO/Projects/Arduino PID Control NTC/.pio/libdeps/uno/OneButton/src",
+    "d:/Mis Documentos/PlatformIO/Projects/Arduino PID Control NTC/.pio/libdeps/uno/LiquidMenu/src",
+    "d:/Mis Documentos/PlatformIO/Projects/Arduino PID Control NTC/.pio/libdeps/uno/LiquidCrystal_I2C",
+    "d:/Mis Documentos/PlatformIO/Projects/Arduino PID Control NTC/.pio/libdeps/uno/NTC_Thermistor/src",
+    "C:/Users/nesgc/.platformio/packages/framework-arduino-avr/cores/arduino",
+    "C:/Users/nesgc/.platformio/packages/framework-arduino-avr/variants/standard",
+    "C:/Users/nesgc/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+    "d:/Mis Documentos/PlatformIO/Projects/Arduino PID Control NTC/.pio/libdeps/uno/LiquidCrystal",
+    "C:/Users/nesgc/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+    "C:/Users/nesgc/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+    "C:/Users/nesgc/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+    "C:/Users/nesgc/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+    ""
+  ],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "cmake.configureOnOpen": false
+}
